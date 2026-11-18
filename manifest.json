@@ -4,14 +4,26 @@
   "display": "standalone",
   "name": "ARROW DOMINATOR",
   "orientation": "portrait",
-  "scope":"/ARROW-DOMINATOR/",
+  "scope": "/ARROW-DOMINATOR/",
   "short_name": "ARROW",
-  "start_url":"/ARROW-DOMINATOR/",
+  "start_url": "/ARROW-DOMINATOR/",
   "theme_color": "#ffffff",
-  "id": "arrow-dominator ",
-  "description": "ARROW DOMINATOR - An exciting arrow survival game.",
+  "id": "arrow-dominator",
+  "description": "ARROW DOMINATOR - An exciting survival game.",
   "lang": "en",
-  "categories": [
-    "games"
+  "categories": ["games"],
+  "icons": [
+    {
+      "src": "launchericon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "launchericon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
   ]
 }
